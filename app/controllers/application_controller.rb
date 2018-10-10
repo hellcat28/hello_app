@@ -4,4 +4,3 @@ class ApplicationController < ActionController::Base
   def hello
     render html: "hello mtfk!"
   end
-end
